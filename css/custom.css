@@ -2,10 +2,7 @@ body,
 html {
 	família da fonte: 'Roboto', sans-serif;
 }
-body {
-	background-image: url(../img/footer-bg.png) no-repeat center bottom;
-	 
-}
+
 
 #header {
 	width: 100%;
