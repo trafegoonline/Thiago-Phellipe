@@ -10,6 +10,9 @@ html {
 	background-color: transparent;
 	transition: background ease-out 0.2s;
 }
+.logo {
+	margin-right: 100%;
+}
 
 #header.active {
 	position: fixed;
