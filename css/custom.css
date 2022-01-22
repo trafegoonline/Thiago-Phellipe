@@ -6,13 +6,23 @@ html {
 
 #header {
 	width: 100%;
-	margin: 0 auto;
+	
 	background-color: transparent;
 	transition: background ease-out 0.2s;
 }
-.logo {
+
+.logo2 {
 	margin-right: 100%;
 }
+    .logo2 {
+        height: 70px;
+        
+      }
+        .logo1 {
+        height: 100px;
+        
+       
+      }
 
 #header.active {
 	position: fixed;
