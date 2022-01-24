@@ -95,14 +95,14 @@ html {
 }
 
 #clientes a.link-cliente {
-	padding: 0 15;
-	background: #fff;
+	padding: 1px;
+	background: #fbfbfb;
 	display: flex;
 	align-items: center;
-	justify-content: center;
-	border: solid 1px var(--ligth);
-	height: 100px;
+	border: solid 2px var(--ligth);
+	height: 122px;
 	transition: ease-out all 0.2s;
+
 }
 
 #clientes a.link-cliente:hover {
@@ -113,9 +113,10 @@ html {
 
 #clientes a.link-cliente img {
 	filter: grayscale(100%);
-	max-height: 70px;
+	max-height: 100px;
 	width: 100%; 
 	opacity: 0.6;
+
 }
 
 #clientes a.link-cliente:hover img {
@@ -129,17 +130,16 @@ html {
 	justify-content: space-between;
 	padding: 30px;
 	background-color: var(--ligth);
-	border-radius: 5px;
+	border-radius: 15px;
 }
 
 #clientes .cliente-texto .imagem {
-	padding: 60px 0;
+	padding: 60px 70px;
 	display: flex;
 	align-items: center;
-	margin-left: -70px;
 	color: #b4b4b4;
 	font-size: 24px;
-	line-height: 26px;
+	
 }
 
 #clientes .cliente-texto .imagem span {
@@ -149,6 +149,7 @@ html {
 	letter-spacing: -10px;
 	font-weight: 900;
 	display: block;
+	
 }
 
 #clientes .cliente-texto .telefone {
@@ -257,3 +258,4 @@ html {
 #id {
 	background-color: red;
 }
+
