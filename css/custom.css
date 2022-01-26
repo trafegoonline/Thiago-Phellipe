@@ -1,7 +1,6 @@
 body, 
 html {
 	font-family: 'Baloo 2', cursive;
-
 }
 
 
@@ -93,9 +92,11 @@ html {
 	justify-content: center;
 	height: 200px;
 }
+
 #serviços a.destaque .img-container img {
 	max-height: 160px;
 }
+
 
 #clientes a.link-cliente {
 	padding: 1px;
@@ -254,7 +255,8 @@ html {
 	max-height: 30px;
 
 }
-#footer {
+
+#final p {
 	text-align: center;
 }
 
