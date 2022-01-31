@@ -23,10 +23,9 @@ html {
 
 #header.active {
 	position: fixed;
-	background: #fff;
-	box-shadow: 0 0 30px 0 rgba(0,0,0,0.2);
+	background: #fbfbfb;
+	box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.2);
 	z-index: 9999;
-
 }	
 
 #header .navbar-collapse {
@@ -249,7 +248,7 @@ html {
 }
 #contato ul li a:hover {
 	box-shadow: 0 0 10px 0 rgba(0,0,0,0.4);
-	background-color: #fff;
+	background-color: transparent;
 } 
 #contato ul li img {
 	max-height: 30px;
@@ -263,4 +262,3 @@ html {
 #id {
 	background-color: red;
 }
-
